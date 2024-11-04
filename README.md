@@ -36,4 +36,4 @@
 </div>
 
 <br />
-![Snake animation](https://github.com/wallaceneto/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wallaceneto/wallaceneto/blob/output/github-contribution-grid-snake.svg)
