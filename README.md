@@ -34,6 +34,3 @@
     <img alt="Email badge" loading="lazy" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" target="_blank">
   </a>
 </div>
-
-<br />
-![Snake animation](https://github.com/wallaceneto/wallaceneto/blob/output/github-contribution-grid-snake.svg)
