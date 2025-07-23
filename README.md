@@ -4,7 +4,7 @@
 
 💻 Computer science student
 
-🎯 Focus on front-end development
+🎯 Focus on mobile development
 
 ## Skills
 <div>
