@@ -6,6 +6,7 @@
 
 🎯 Front-end and mobile developer
 
+Check my portifolio: https://my-portfolio-wal.vercel.app
 
 ## Skills
 ![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,flutter,git,figma&perline=14)
